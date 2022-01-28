@@ -1,0 +1,8 @@
+.not-found{
+    text-decoration: none;
+    color: black;
+}
+
+.not-found:hover{
+    text-decoration: underline;
+}

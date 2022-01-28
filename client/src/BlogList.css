@@ -1,0 +1,30 @@
+.blog{
+    width:450px;
+    height: 7.5em;
+    background-color: rgb(238, 234, 234);
+    padding: 1em;
+    margin-bottom: 1em;
+    
+}
+
+.blog-title{
+    font-size: 1.5em;
+}
+
+.blog:hover{
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+}
+
+.edit-blog-btn{
+    width:6em;
+    height: 2.3em;
+    border-radius: 0.5em;
+    border:none;
+    background-color: crimson;
+    color: #fff;
+}
+
+.edit-blog-btn:hover{
+    cursor: pointer;
+}
+
